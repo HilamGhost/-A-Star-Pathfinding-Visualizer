@@ -2,12 +2,7 @@
 
 An interactive, highly optimized A* (A-Star) pathfinding algorithm built in Unity. This project demonstrates clean architectural separation between pure mathematical data structures and Unity's visual components, allowing for lightning-fast route calculations on dynamic grids.
 
-> ** 
-
 https://github.com/user-attachments/assets/d75ee152-36c3-48f9-a5e9-28e299afb319
-
-
-**
 
 ---
 
